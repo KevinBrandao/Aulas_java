@@ -5,3 +5,4 @@
 #
 ## [Lista de Exercicios 2](<lista_exercicios_2/exercicios2java.pdf>)
 
+## [Lista de Exercicios 3](<lista_exercicios_3/EXERCÍCIO 03_ revisão arrays e métodos.pdf>)
